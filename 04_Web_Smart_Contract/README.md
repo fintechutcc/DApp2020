@@ -290,7 +290,7 @@ $(function() {
 
 ![Metamaks_01](img/metamask_01.png)
 
-- คลิกที่ Get Started จะได้ผลลัพธ์ดังรูปรูปด้านล่าง
+- คลิกที่ Get Started จะได้ผลลัพธ์ดังรูปด้านล่าง
 
 ![Metamask_02](img/metamask_02.png)
 
